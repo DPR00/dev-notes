@@ -21,7 +21,7 @@ Therefore, I found this way to install NVIDIA drivers on my Linux system (Ubuntu
 6. Reboot.'
 7. You should be able to run the `nvidia-smi` command and get your GPU information.
 
-***Disclaimer***: I made the mistake of only running the `sudo ubuntu-drivers install` command. It indeed installed the drivers, but my WiFi drivers broke and I couldn't connect to Internet. I couldn't even connect an external screen.
+***Disclaimer***: I made the mistake of only running the `sudo ubuntu-drivers install` command. It indeed installed the drivers, but my WiFi drivers were broken and I couldn't connect to the Internet. I couldn't even connect to an external screen. So, I suggest follow all the steps.
 
 ## Sources
 
